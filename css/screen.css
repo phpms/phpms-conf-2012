@@ -1,0 +1,314 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	outline: 0 none;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.rp {overflow:hidden;display:block;text-indent:-5000px;font-size:1px;}
+.clear:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.clear { display: inline-block; }
+* html .clear { height: 1%; }
+.clear { display: block; }
+
+
+body {
+	background: #E6F6F6;
+	background-image: url(../images/b.png) !important ;
+	background-repeat: repeat;
+	color: #666;
+	font-family: "anivers";
+/*	font-family: 'Pontano Sans', sans-serif;*/
+   	font-weight: normal;
+   	font-style: normal; ;
+	font-size: 15px;
+	line-height: 18px;
+}
+
+header {
+	background:url(../images/logo_topo.png) no-repeat;
+	width:780px;
+	height:237px;
+	margin:50px 0px;
+}
+
+h2 {
+	margin-bottom:15px;
+}
+
+section{
+	margin-bottom:25px;
+	margin-top:10px;
+	padding-bottom:5px;
+}
+
+h4{
+	font-size:17px;
+	font-weight:bold;
+}
+
+p{
+	font-size:13px;
+	letter-spacing: 1px;
+}
+
+h5{
+	font-size:17px;
+	font-weight:bold;
+	margin:10px;
+}
+
+.contatotexto{
+	margin-top:5px;
+	text-align: center
+}
+
+.circuloamarelo h5, .circuloazulb h5, .circuloazulp h5, .circulolaranja h5{
+	color:#FFF;
+	font-weight:bold;
+	text-align:center;
+	margin-top:18px;
+
+}
+
+.palestras_item p{
+	border-bottom:2px dotted #CCC;
+	padding-bottom:10px;
+	margin-bottom:10px;
+}
+
+.separador{
+	border-bottom:2px dotted #CCC;
+}
+
+#inscricoes_1{
+	border-bottom:2px dotted #CCC;
+	padding-bottom:25px;
+}
+
+.palestrante{
+	padding-bottom:10px;
+	margin-bottom:10px;
+	margin-top:15px;
+}
+
+#botao_google {
+	background:url(../images/botao_google.png);
+	width:107px;
+	height:52px;
+	margin:125px 0 0 0;
+	float:right;
+}
+
+#evento{
+	background:url(../images/chave.png);
+	text-align:left;
+	width:622px;
+	height:200px;
+}
+
+#evento h2 {
+	background:url(../images/o_evento.png) no-repeat;
+	width:143px;
+	height:31px;
+}
+#local {
+	height:306px;
+	text-align:right;
+	background:url(../images/mapa.png) no-repeat right;
+
+}
+#local h2 {
+	background:url(../images/local.png) no-repeat;
+	width:138px;
+	height:32px;
+	float:right;
+}
+
+#palestras h2 {
+	background:url(../images/palestras.png) no-repeat;
+	width:152px;
+	height:31px;
+}
+
+#palestrantes h2{
+	background:url(../images/palestrantes.png) no-repeat;
+	width:204px;
+	height:31px;
+}
+
+#patrocinio h2{
+	background:url(../images/patrocinio_apoio.png) no-repeat;
+	width:295px;
+	height:41px;
+}
+
+#inscricoes h2{
+	background:url(../images/inscricoes.png) no-repeat;
+	width:207px;
+	height:42px;
+	/*	float:right;*/
+}
+
+#contato h2{
+	background:url(../images/contato.png) no-repeat;
+	width:140px;
+	height:30px;
+}
+
+#dia17 {
+	background:url(../images/dia17.png) no-repeat;
+	width:99px;
+	height:49px;
+	float:right;
+
+}
+
+#dia18 {
+	background:url(../images/dia18.png) no-repeat;
+	width:96px;
+	height:44px;
+	float:right;
+
+}
+
+#banner_inscricoes{
+	background:url(../images/banner.png) no-repeat;
+	width:615px;
+	height:257px;
+	margin-top:10px;
+	float:left;
+}
+
+#botao_inscrever{
+	background:url(../images/botao_inscrever.png) no-repeat;
+	width:204px;
+	height:28px;
+}
+
+.circulolaranja{
+	background:url(../images/circulo_lar.png) no-repeat;
+	width:59px;
+	height:56px;
+}
+
+.circuloazulb{
+	background:url(../images/circulo_azulb.png) no-repeat;
+	width:59px;
+	height:56px;
+}
+
+.circuloazulp{
+	background:url(../images/circulo_azulp.png) no-repeat;
+	width:59px;
+	height:56px;
+}
+
+.circuloamarelo{
+	background:url(../images/c_amarelo.png) no-repeat;
+	width:59px;
+	height:56px;
+}
+
+.foto{
+	background:url(../images/avatar.png) no-repeat;
+	width:133px;
+	height:121px;
+}
+
+.ret_ouro , .ret_prata , .ret_bronze , .ret_apoio, .ret_diamante{
+	width:780px;
+	/*	border-top:2px solid #CCC;*/
+	padding:8px 0 5px 5px;
+	/*	background-color: rgba(255,255,255,0.5);*/
+}
+
+.tituloinscricoes{
+	background:url(../images/inscricoes.png) no-repeat;
+	width:207px;
+	height:42px;
+	margin-bottom:15px;
+	margin-top:10px;
+}
+
+.contato{
+	background:url(../images/contato.png) no-repeat;
+	width:129px;
+	height:31px;
+	margin-bottom:15px;
+	margin-top:10px;
+}
+
+.logophp{
+	background:url(../images/logo_php.png) no-repeat;
+	height:108px;
+	margin:0 auto;
+	width:219px;
+}
+
+.contato_sep{
+	padding-bottom:35px;
+}
+
+section#patrocinio img{
+	margin:0 20px 10px 5px;
+}
+
+div.social{
+	float: right;
+	margin: 20px 0 0 0;
+}
+
+html body div.container_12 div.social div.fb_iframe_widget{
+	display: block !important;
+}
