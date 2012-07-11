@@ -256,6 +256,7 @@
 					<h5>Apoio</h5>
 
 					<div class="ret_apoio">
+						<a href="http://coderockr.com/" title="Coderockr"><img src="images/patrocinio/b_coderockr.png" alt="Coderockr" /></a>
 						<a href="http://fmb.org.br/" title="Fundação Manoel de Barros"><img src="images/patrocinio/b_fundacao.png" alt="Fundação Manoel de Barros" /></a>
 					</div>
 
