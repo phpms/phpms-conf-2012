@@ -141,16 +141,16 @@
 							<p>Uma explicação sobre REST e Hipermídia, sua evolução histórica e exemplos naturais de seu uso com foco em resolução de problemas.</p>
 						</div>
 
-						<!--						<div class="grid_1 alpha circulolaranja">
+						<div class="grid_1 alpha circulolaranja">
 							<h5 class="grid_1 alpha">8h30</h5>
 						</div>
 
 						<div class="grid_3 omega">
-							<h4>Fulano da Silva</h4>
-													<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
+							<h4>E na hora de vender? Magento x Opencart</h4>
+							<p>Uma comparação detalhada entre essas duas poderosas ferramentas de e-commerce, mostrando suas vantagens e desvantagens, módulos, administração e facilidades para o usuário final.</p>
 						</div>
 
-						<div class="grid_1 alpha circuloazulb">
+						<!--						<div class="grid_1 alpha circuloazulb">
 							<h5 class="grid_1 alpha">8h30</h5>
 						</div>
 
@@ -181,12 +181,12 @@
 						</div>
 
 						<div class="grid_2 alpha">
-							<img src="images/avatar.png">
+							<img src="images/speakers/ruza.png">
 						</div>
 
 						<div class="grid_2 omega palestrante">
-							<h4>Você!</h4>
-							<p>A <a href="http://phpms.org/conf/2012/chamada-de-trabalhos/"><strong>chamada de trabalhos</strong></a> ainda está aberta, corra e submeta sua atividade ao PHPMS Conf 2012</p>
+							<h4>Abner Ruza</h4>
+							<p>Formado em análise de sistemas, trabalha com desenvolvimento de software na Catwork com ênfase em criação de e-commerce.</p>
 						</div>
 					</div>
 				</div>
@@ -202,14 +202,14 @@
 							<p>Desenvolvedor desde 1998, trabalhando com PHP, Python, Linux e bancos de dados. Sócio da Coderockr, escritor e professor.</p>
 						</div>
 
-						<!--						<div class="grid_2 alpha">
-													<img src="images/avatar.png">
+						<div class="grid_2 alpha">
+							<img src="images/avatar.png">
 						</div>
 
 						<div class="grid_2 omega palestrante">
-							<h4>Fulano da Silva</h4>
-													<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-						</div>-->
+							<h4>Você!</h4>
+							<p>A <a href="http://phpms.org/conf/2012/chamada-de-trabalhos/"><strong>chamada de trabalhos</strong></a> ainda está aberta, corra e submeta sua atividade ao PHPMS Conf 2012</p>
+						</div>
 					</div>
 				</div>
 
@@ -249,6 +249,7 @@
 						<a href="http://acicg.com.br/" title="Associação Comercial e Industrial de Campo Grande"><img src="images/patrocinio/b_acicg.png" alt="ACICG" /></a>
 						<a href="http://dothcom.com.br/" title="dothCom Consultoria Digital"><img src="images/patrocinio/b_dothcom.png" alt="dothCom" /></a>
 						<a href="http://gestaoativa.com.br/" title="Gestão Ativa Soluções Web"><img src="images/patrocinio/b_gestaoativa.png" alt="Gestão Ativa" /></a>
+						<a href="http://maisempresas.com/" title="Mais Empresas"><img src="images/patrocinio/b_maisempresas.png" alt="Mais Empresas" /></a>
 						<a href="http://spidersofthouse.com/" title="Spider SoftHouse"><img src="images/patrocinio/b_spider.png" alt="Spider SoftHouse" /></a>
 						<a href="http://tecsinapse.com.br/" title="TecSinapse"><img src="images/patrocinio/b_tecsinapse.png" alt="TecSinapse" /></a>
 					</div>
