@@ -142,7 +142,7 @@
 						</div>
 
 						<div class="grid_1 alpha circulolaranja">
-							<h5 class="grid_1 alpha">8h30</h5>
+							<h5 class="grid_1 alpha">?</h5>
 						</div>
 
 						<div class="grid_3 omega">
