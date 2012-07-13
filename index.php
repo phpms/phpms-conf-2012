@@ -247,9 +247,11 @@
 
 					<div class="ret_bronze">
 						<a href="http://acicg.com.br/" title="Associação Comercial e Industrial de Campo Grande"><img src="images/patrocinio/b_acicg.png" alt="ACICG" /></a>
+						<a href="http://before.com.br/" title="Before TI"><img src="images/patrocinio/b_beforeti.png" alt="Before TI" /></a>
 						<a href="http://dothcom.com.br/" title="dothCom Consultoria Digital"><img src="images/patrocinio/b_dothcom.png" alt="dothCom" /></a>
 						<a href="http://gestaoativa.com.br/" title="Gestão Ativa Soluções Web"><img src="images/patrocinio/b_gestaoativa.png" alt="Gestão Ativa" /></a>
 						<a href="http://maisempresas.com/" title="Mais Empresas"><img src="images/patrocinio/b_maisempresas.png" alt="Mais Empresas" /></a>
+						<a href="http://nds.com.br/nds/" title="NDS Tecnologia"><img src="images/patrocinio/b_nds.png" alt="NDS Tecnologia" /></a>
 						<a href="http://spidersofthouse.com/" title="Spider SoftHouse"><img src="images/patrocinio/b_spider.png" alt="Spider SoftHouse" /></a>
 						<a href="http://tecsinapse.com.br/" title="TecSinapse"><img src="images/patrocinio/b_tecsinapse.png" alt="TecSinapse" /></a>
 					</div>
