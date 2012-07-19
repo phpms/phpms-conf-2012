@@ -90,25 +90,25 @@
 							<p>Apresentação dos principais frameworks existentes em PHP, suas aplicações, vantagens e desvantagens.</p>
 						</div>
 
-						<!--						<div class="grid_1 alpha circuloazulp">
-							<h5 class="grid_1 alpha">8h30</h5>
+						<div class="grid_1 alpha circuloazulp">
+							<h5 class="grid_1 alpha">?</h5>
 						</div>
 
 						<div class="grid_3 omega">
-							<h4>Fulano da Silva</h4>
-													<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
+							<h4>Contribuindo com o PHP</h4>
+							<p>Palestra com foco em mostrar ações para contribuirmos com o PHP como o PHPT, buglist, documentação e tradução.</p>
 						</div>
 
 						<div class="grid_1 alpha circulolaranja">
-							<h5 class="grid_1 alpha">8h30</h5>
+							<h5 class="grid_1 alpha">?</h5>
 						</div>
 
 						<div class="grid_3 omega">
-							<h4>Fulano da Silva</h4>
-													<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
+							<h4>Doing Things with PHING</h4>
+							<p>PHING é um automatizador de tarefas baseado no Apache Ant, com tarefas específicas para building de aplicações PHP.</p>
 						</div>
 
-						<div class="grid_1 alpha circuloazulb">
+						<!--						<div class="grid_1 alpha circuloazulb">
 							<h5 class="grid_1 alpha">8h30</h5>
 						</div>
 
@@ -188,6 +188,15 @@
 							<h4>Abner Ruza</h4>
 							<p>Formado em análise de sistemas, trabalha com desenvolvimento de software na Catwork com ênfase em criação de e-commerce.</p>
 						</div>
+
+						<div class="grid_2 alpha">
+							<img src="images/speakers/casimiro.png">
+						</div>
+
+						<div class="grid_2 omega palestrante">
+							<h4>Anderson Casimiro</h4>
+							<p>Profissional PHP desde 2002, ZCE e CSM. Team Leader, Arquiteto e Desenvolvedor na Arizona. Co-fundador do PHPSP e anfitrião do PHPUBSP.</p>
+						</div>
 					</div>
 				</div>
 
@@ -200,6 +209,15 @@
 						<div class="grid_2 omega palestrante">
 							<h4>Elton Luís Minetto</h4>
 							<p>Desenvolvedor desde 1998, trabalhando com PHP, Python, Linux e bancos de dados. Sócio da Coderockr, escritor e professor.</p>
+						</div>
+
+						<div class="grid_2 alpha">
+							<img src="images/speakers/rosolen.png">
+						</div>
+
+						<div class="grid_2 omega palestrante">
+							<h4>Ivan Rosolen</h4>
+							<p>Desenvolvedor há mais de 10 anos e um dos fundadores do PHPSP é responsável pela equipe de Inovação na Arizona.</p>
 						</div>
 
 						<div class="grid_2 alpha">
