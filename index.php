@@ -68,7 +68,7 @@
 				<p> Próximo ao Horto Florestal </p>
 				<p> Campo Grande - MS </p>
 
-				<p><a target="_blank" href="http://goo.gl/Wfu8K" id="botao_google" class="rp"></a></p>
+				<p><a target="_blank" href="https://www.google.com/maps/ms?msid=204443376014201121416.0004c5e9c401ebcb5e1fe&msa=0&iwloc=0004c5e9c75f2b6ff1509" id="botao_google" class="rp"></a></p>
 			</section>
 
 			<section id="palestras" class="grid_11 push_1">
