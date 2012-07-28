@@ -52,11 +52,10 @@
 				<div class="clear"></div>
 
 				<p class="grid_6 push_1">
-				A PHPMS Conf é um evento voltado a profissionais e entusiastas da linguagem PHP, é a sequência de 3 Workshops realizados pelo grupo em seus primeiros anos.
-				Este ano o evento vem remodelado e renovado, com muitas novidades e a presença de profissionais reconhecimentos nacionalmente na comunidade PHP através de suas
-				contribuições e participações em eventos de renome. Uma novidade nesta edição é a parceria inédita com o Startup MS, fomentando o empreendedorismos entre os
-				desenvolvedores de software e a participação deste na tradicional mesa-redonda.
-				Não perca essa oportunidade única de participar de um dos maiores eventos voltados ao Desenvolvimento Web do Mato Grosso do Sul e região.
+				A PHPMS Conf é a consolidação do maior evento PHP e Web da região. Este ano o evento contará com a presença de grandes nomes da comunidade brasileira em um formato,
+				em um formato que valoriza a troca de ideias e conhecimento entre todos os participantes.
+				Teremos ainda atividades voltadas para quem empreende ou deseja empreender no mundo web, preparadas em conjunto com o <a href="http://startupms.com.br">Grupo StartupMS</a>.
+				Não perca essa oportunida, <a href="http://comitiva.phpms.org/divulgacao/phpms-conf-2012" title="Inscrição na PHPMS Conf12">faça já sua inscrição</a>.
 				</p>
 			</section>
 
@@ -65,7 +64,7 @@
 
 				<div class="clear"> </div>
 
-				<p> Senac/MS - Rua 26 de Agosto - Centro </p>
+				<p> Senac/MS - Rua Francisco Candido Xavier, 75 - Centro </p>
 				<p> Próximo ao Horto Florestal </p>
 				<p> Campo Grande - MS </p>
 
@@ -81,41 +80,30 @@
 					<h3 class="rp" id="dia17">Dia 17</h3>
 
 					<div class="grid_4 alpha palestras_item">
-						<div class="grid_1 alpha circuloamarelo">
-							<h5 class="grid_1 alpha">?</h5>
-						</div>
-
-						<div class="grid_3 omega">
-							<h4>Frameworks de desenvolvimento em PHP</h4>
-							<p>Apresentação dos principais frameworks existentes em PHP, suas aplicações, vantagens e desvantagens.</p>
-						</div>
-
-						<div class="grid_1 alpha circuloazulp">
-							<h5 class="grid_1 alpha">?</h5>
-						</div>
-
-						<div class="grid_3 omega">
-							<h4>Contribuindo com o PHP</h4>
-							<p>Palestra com foco em mostrar ações para contribuirmos com o PHP como o PHPT, buglist, documentação e tradução.</p>
-						</div>
-
 						<div class="grid_1 alpha circulolaranja">
-							<h5 class="grid_1 alpha">?</h5>
+							<h5 class="grid_1 alpha">20:00</h5>
 						</div>
 
 						<div class="grid_3 omega">
-							<h4>Doing Things with PHING</h4>
-							<p>PHING é um automatizador de tarefas baseado no Apache Ant, com tarefas específicas para building de aplicações PHP.</p>
+							<h4>Startups: É programando que se empreende!</h4>
+							<p>Guilherme Junqueira - Apresentar o conceitos e metodologias de desenvolvimento de negócios inovadores, conhecidos como Startups!</p>
 						</div>
 
-						<!--						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">8h30</h5>
+						<div class="grid_1 alpha circuloamarelo">
+							<h5 class="grid_1 alpha">20:50</h5>
 						</div>
-
 						<div class="grid_3 omega">
-							<h4>Fulano da Silva</h4>
-													<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-						</div>-->
+							<h4>Coffe-break/Networking</h4>
+							<p>&nbsp;</p>
+						</div>
+
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">21:10</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>PHP like a Super Hero</h4>
+							<p>Elton Minetto - Apresentação de tecnologias e teorias que um programador iniciante em PHP deve aprender para tornar-se um profissional de alto nível.</p>
+						</div>
 					</div>
 				</div>
 
@@ -123,41 +111,79 @@
 					<h3 class="rp" id="dia18">Dia 18</h3>
 
 					<div class="grid_4 alpha palestras_item">
+						<div class="grid_3 omega">
+							<h4>Frameworks de desenvolvimento em PHP</h4>
+							<p>Elton Minetto - Apresentação dos principais frameworks existentes em PHP, suas aplicações, vantagens e desvantagens.</p>
+						</div>
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">8:30</h5>
+						</div>
+
+						<div class="grid_3 omega">
+							<h4>Coffe-break/Networking</h4>
+							<p>&nbsp;</p>
+						</div>
 						<div class="grid_1 alpha circuloamarelo">
-							<h5 class="grid_1 alpha">?</h5>
+							<h5 class="grid_1 alpha">09:20</h5>
 						</div>
 
 						<div class="grid_3 omega">
-							<h4>PHP like a Super Hero</h4>
-							<p>Apresentação de tecnologias e teorias que um programador iniciante em PHP deve aprender para tornar-se um profissional de alto nível.</p>
+							<h4>Redis: Um banco chave valor</h4>
+							<p>Kinn Coelho - Uma abordagem ao NoSQL e diretamente ao Redis. Casos de uso, uso com PHP e outros assuntos relacionados ao Redis</p>
 						</div>
-
-						<div class="grid_1 alpha circuloazulp">
-							<h5 class="grid_1 alpha">?</h5>
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">09:50</h5>
 						</div>
 
 						<div class="grid_3 omega">
-							<h4>REST: Faça o Serviço Direito</h4>
-							<p>Uma explicação sobre REST e Hipermídia, sua evolução histórica e exemplos naturais de seu uso com foco em resolução de problemas.</p>
+							<h4>Doing Things with PHING</h4>
+							<p>Anderson Casimiro - PHING é um automatizador de tarefas baseado no Apache Ant, com tarefas específicas para building de aplicações PHP.</p>
+						</div>
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">10:40</h5>
 						</div>
 
+						<div class="grid_3 omega">
+							<h4>Contribuindo com o PHP</h4>
+							<p>Ivan Rosolen - Palestra com foco em mostrar ações para contribuirmos com o PHP como o PHPT, buglist, documentação e tradução.</p>
+						</div>
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">13:00</h5>
+						</div>
+
+						<div class="grid_3 omega">
+							<h4>Mesa Redonda: Empreendedorismo Digital</h4>
+							<p>Convidados: em breve.</p>
+						</div>
 						<div class="grid_1 alpha circulolaranja">
-							<h5 class="grid_1 alpha">?</h5>
+							<h5 class="grid_1 alpha">13:50</h5>
+						</div>
+
+						<div class="grid_3 omega">
+							<h4>Coffe-break/Networking</h4>
+							<p>&nbsp;</p>
+						</div>
+						<div class="grid_1 alpha circuloamarelo">
+							<h5 class="grid_1 alpha">15:40</h5>
 						</div>
 
 						<div class="grid_3 omega">
 							<h4>E na hora de vender? Magento x Opencart</h4>
-							<p>Uma comparação detalhada entre essas duas poderosas ferramentas de e-commerce, mostrando suas vantagens e desvantagens, módulos, administração e facilidades para o usuário final.</p>
+							<p>Abner Ruza - Uma comparação detalhada entre essas duas poderosas ferramentas de e-commerce, mostrando suas vantagens e desvantagens, módulos, administração e facilidades para o usuário final.</p>
+						</div>
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">16:00</h5>
 						</div>
 
-						<!--						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">8h30</h5>
-						</div>
 
 						<div class="grid_3 omega">
-							<h4>Fulano da Silva</h4>
-													<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-						</div>-->
+							<h4>REST: Faça o Serviço Direito</h4>
+							<p>Alexandre Gaigalas - Uma explicação sobre REST e Hipermídia, sua evolução histórica e exemplos naturais de seu uso com foco em resolução de problemas.</p>
+						</div>
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">16:50</h5>
+						</div>
+
 					</div>
 				</div>
 
@@ -217,16 +243,16 @@
 
 						<div class="grid_2 omega palestrante">
 							<h4>Ivan Rosolen</h4>
-							<p>Desenvolvedor há mais de 10 anos e um dos fundadores do PHPSP é responsável pela equipe de Inovação na Arizona.</p>
+							<p>Desenvolvedor à mais de 10 anos e um dos fundadores do PHPSP é responsável pela equipe de Inovação na Arizona.</p>
 						</div>
 
 						<div class="grid_2 alpha">
-							<img src="images/avatar.png">
+							<img src="images/speakers/kinn.png">
 						</div>
 
 						<div class="grid_2 omega palestrante">
-							<h4>Você!</h4>
-							<p>A <a href="http://phpms.org/conf/2012/chamada-de-trabalhos/"><strong>chamada de trabalhos</strong></a> ainda está aberta, corra e submeta sua atividade ao PHPMS Conf 2012</p>
+							<h4>Kinn Coelho</h4>
+							<p>Desenvolvedor PHP à 10 anos, atualmente é Software Engineer na Dafiti e ainda Evangelista PHP, Entusiasta NoSQL, Nokia N950 Meego Staff, Geek, Marido da mulher mais perfeita do mundo e Pai da bebê mais graciosa que existe.</p>
 						</div>
 					</div>
 				</div>
@@ -279,6 +305,7 @@
 					<div class="ret_apoio">
 						<a href="http://coderockr.com/" title="Coderockr"><img src="images/patrocinio/b_coderockr.png" alt="Coderockr" /></a>
 						<a href="http://fmb.org.br/" title="Fundação Manoel de Barros"><img src="images/patrocinio/b_fundacao.png" alt="Fundação Manoel de Barros" /></a>
+						<a href="http://startupms.com.br/" title="StartupMS"><img src="images/patrocinio/b_startupms.png" alt="StartupMS" /></a>
 					</div>
 
 				</div>

@@ -108,6 +108,16 @@ h5{
 	margin:10px;
 }
 
+a, a:visited{
+	text-decoration: none;
+	color: #4BA4A4;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 .contatotexto{
 	margin-top:5px;
 	text-align: center
