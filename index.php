@@ -339,7 +339,7 @@
 					<a target="_blank" href="https://www.facebook.com/DesenvolvedoresMS" title="Curta nossa página no Facebook"><img src="images/icones/facebook.png" alt="Curta nossa página no Facebook" /></a>
 					<a target="_blank" href="http://twitter.com/#!/phpms" title="Nos siga no Twitter"><img src="images/icones/twitter.png" alt="Nos siga no Twitter" /></a>
 					<div class="clear"></div>
-					<div class="logophp"> </div>
+					<a href="http://phpms.org"><div class="logophp"> </div></a>
 				</div>
 			</section>
 		</div>
