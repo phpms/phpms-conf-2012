@@ -52,8 +52,8 @@
 				<div class="clear"></div>
 
 				<p class="grid_6 push_1">
-				A PHPMS Conf é a consolidação do maior evento PHP e Web da região. Este ano o evento contará com a presença de grandes nomes da comunidade brasileira em um formato,
-				em um formato que valoriza a troca de ideias e conhecimento entre todos os participantes.
+				A PHPMS Conf é a consolidação do maior evento PHP e Web da região. Este ano o evento contará com a presença de grandes nomes da comunidade brasileira, em um formato
+				que valoriza a troca de ideias e conhecimento entre todos os participantes.
 				Teremos ainda atividades voltadas para quem empreende ou deseja empreender no mundo web, preparadas em conjunto com o <a href="http://startupms.com.br">Grupo StartupMS</a>.
 				Não perca essa oportunida, <a href="http://comitiva.phpms.org/divulgacao/phpms-conf-2012" title="Inscrição na PHPMS Conf12">faça já sua inscrição</a>.
 				</p>
