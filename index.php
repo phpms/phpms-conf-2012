@@ -6,10 +6,15 @@
 		<meta charset="utf-8">
 
 		<title>PHPMS Conf 2012</title>
-		<link href='http://fonts.googleapis.com/css?family=Pontano+Sans' rel='stylesheet' type='text/css' />
+		<link href="http://fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet" type="text/css" />
 
 		<link href="css/screen.css" media="all" rel="stylesheet" type="text/css" />
 		<link href="css/960_12_col.css" media="all" rel="stylesheet" type="text/css" />
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+		<script type="text/javascript" src="js/fancybox/source/jquery.fancybox.pack.js"></script>
+		<link href="js/fancybox/source/jquery.fancybox.css" media="all" rel="stylesheet" type="text/css" />
 
 		<script type="text/javascript" src="http://use.typekit.com/hdt5icj.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -79,7 +84,20 @@
 				<div class="grid_4">
 					<h3 class="rp" id="dia17">Dia 17</h3>
 
+					<div class="clear"></div>
+
 					<div class="grid_4 alpha palestras_item">
+						<div class="grid_1 alpha circuloamarelo">
+							<h5 class="grid_1 alpha">19:30</h5>
+						</div>
+
+						<div class="grid_3 omega">
+							<h4>Credenciamento e Abertura</h4>
+							<p>&nbsp;</p>
+						</div>
+
+						<div class="clear"></div>
+
 						<div class="grid_1 alpha circulolaranja">
 							<h5 class="grid_1 alpha">20:00</h5>
 						</div>
@@ -89,13 +107,17 @@
 							<p>Guilherme Junqueira - Apresentar o conceitos e metodologias de desenvolvimento de negócios inovadores, conhecidos como Startups!</p>
 						</div>
 
-						<div class="grid_1 alpha circuloamarelo">
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circuloazulp">
 							<h5 class="grid_1 alpha">20:50</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Coffe-break/Networking</h4>
 							<p>&nbsp;</p>
 						</div>
+
+						<div class="clear"></div>
 
 						<div class="grid_1 alpha circuloazulb">
 							<h5 class="grid_1 alpha">21:10</h5>
@@ -104,86 +126,141 @@
 							<h4>PHP like a Super Hero</h4>
 							<p>Elton Minetto - Apresentação de tecnologias e teorias que um programador iniciante em PHP deve aprender para tornar-se um profissional de alto nível.</p>
 						</div>
+
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circuloamarelo">
+							<h5 class="grid_1 alpha">22:00</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Hora Extra</h4>
+							<p>Quer conhecer os palestrantes numa conversa descontraída? Vamos levá-los à Feira Central para saborear o famoso sobá de Campo Grande!</p>
+						</div>
 					</div>
 				</div>
 
 				<div class="grid_4 push_2">
 					<h3 class="rp" id="dia18">Dia 18</h3>
 
+					<div class="clear"></div>
+
 					<div class="grid_4 alpha palestras_item">
-						<div class="grid_3 omega">
-							<h4>Frameworks de desenvolvimento em PHP</h4>
-							<p>Elton Minetto - Apresentação dos principais frameworks existentes em PHP, suas aplicações, vantagens e desvantagens.</p>
-						</div>
-						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">8:30</h5>
+						<div class="grid_1 alpha circuloamarelo">
+							<h5 class="grid_1 alpha">8:00</h5>
 						</div>
 
 						<div class="grid_3 omega">
-							<h4>Coffe-break/Networking</h4>
+							<h4>Credenciamento e Abertura</h4>
 							<p>&nbsp;</p>
 						</div>
-						<div class="grid_1 alpha circuloamarelo">
-							<h5 class="grid_1 alpha">09:20</h5>
+
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circulolaranja">
+							<h5 class="grid_1 alpha">8:30</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Breakfast/Networking</h4>
+							<p>&nbsp;</p>
 						</div>
 
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circuloazulp">
+							<h5 class="grid_1 alpha">9:00</h5>
+						</div>
 						<div class="grid_3 omega">
 							<h4>Redis: Um banco chave valor</h4>
 							<p>Kinn Coelho - Uma abordagem ao NoSQL e diretamente ao Redis. Casos de uso, uso com PHP e outros assuntos relacionados ao Redis</p>
 						</div>
+
+						<div class="clear"></div>
+
 						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">09:50</h5>
+							<h5 class="grid_1 alpha">9:50</h5>
 						</div>
-
-						<div class="grid_3 omega">
-							<h4>Doing Things with PHING</h4>
-							<p>Anderson Casimiro - PHING é um automatizador de tarefas baseado no Apache Ant, com tarefas específicas para building de aplicações PHP.</p>
-						</div>
-						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">10:40</h5>
-						</div>
-
-						<div class="grid_3 omega">
-							<h4>Contribuindo com o PHP</h4>
-							<p>Ivan Rosolen - Palestra com foco em mostrar ações para contribuirmos com o PHP como o PHPT, buglist, documentação e tradução.</p>
-						</div>
-						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">13:00</h5>
-						</div>
-
-						<div class="grid_3 omega">
-							<h4>Mesa Redonda: Empreendedorismo Digital</h4>
-							<p>Convidados: em breve.</p>
-						</div>
-						<div class="grid_1 alpha circulolaranja">
-							<h5 class="grid_1 alpha">13:50</h5>
-						</div>
-
-						<div class="grid_3 omega">
-							<h4>Coffe-break/Networking</h4>
-							<p>&nbsp;</p>
-						</div>
-						<div class="grid_1 alpha circuloamarelo">
-							<h5 class="grid_1 alpha">15:40</h5>
-						</div>
-
 						<div class="grid_3 omega">
 							<h4>E na hora de vender? Magento x Opencart</h4>
 							<p>Abner Ruza - Uma comparação detalhada entre essas duas poderosas ferramentas de e-commerce, mostrando suas vantagens e desvantagens, módulos, administração e facilidades para o usuário final.</p>
 						</div>
-						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">16:00</h5>
+
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circuloamarelo">
+							<h5 class="grid_1 alpha">10:40</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Doing Things with PHING</h4>
+							<p>Anderson Casimiro - PHING é um automatizador de tarefas baseado no Apache Ant, com tarefas específicas para building de aplicações PHP.</p>
 						</div>
 
+						<div class="clear"></div>
 
+						<div class="grid_1 alpha circulolaranja">
+							<h5 class="grid_1 alpha">11:30</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Almoço/Intervalo</h4>
+							<p>&nbsp;</p>
+						</div>
+
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circuloazulp">
+							<h5 class="grid_1 alpha">13:00</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Contribuindo com o PHP</h4>
+							<p>Ivan Rosolen - Palestra com foco em mostrar ações para contribuirmos com o PHP como o PHPT, buglist, documentação e tradução.</p>
+						</div>
+
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">13:50</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Mesa Redonda: Empreendedorismo Digital</h4>
+							<p>Convidados: em breve.</p>
+						</div>
+
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circuloamarelo">
+							<h5 class="grid_1 alpha">15:40</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Coffe-break/Networking</h4>
+							<p>&nbsp;</p>
+						</div>
+
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circulolaranja">
+							<h5 class="grid_1 alpha">16:00</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Frameworks de desenvolvimento em PHP</h4>
+							<p>Elton Minetto - Apresentação dos principais frameworks existentes em PHP, suas aplicações, vantagens e desvantagens.</p>
+						</div>
+
+						<div class="clear"></div>
+
+						<div class="grid_1 alpha circuloazulp">
+							<h5 class="grid_1 alpha">16:50</h5>
+						</div>
 						<div class="grid_3 omega">
 							<h4>REST: Faça o Serviço Direito</h4>
 							<p>Alexandre Gaigalas - Uma explicação sobre REST e Hipermídia, sua evolução histórica e exemplos naturais de seu uso com foco em resolução de problemas.</p>
 						</div>
-						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">16:50</h5>
-						</div>
 
+						<div class="grid_1 alpha circuloazulb">
+							<h5 class="grid_1 alpha">17:00</h5>
+						</div>
+						<div class="grid_3 omega">
+							<h4>Encerramento</h4>
+							<p>&nbsp;</p>
+						</div>
 					</div>
 				</div>
 
@@ -247,7 +324,7 @@
 						</div>
 
 						<div class="grid_2 alpha">
-							<img src="images/speakers/kinn.png">
+							<img src="images/speakers/juliao.png">
 						</div>
 
 						<div class="grid_2 omega palestrante">
@@ -275,9 +352,7 @@
 
 					<div class="ret_ouro">
 						<a href="http://catwork.com.br/" title="Catwork Soluções em Software"><img src="images/patrocinio/b_catwork.png" alt="Catwork" /></a>
-
 						<a href="http://jera.com.br/" title="Jera Desenvolvimento Web, Android e iOS"><img src="images/patrocinio/b_jera.png" alt="Jera" /></a>
-
 						<a href="http://radig.com.br/" title="Radig Soluções em TI"><img src="images/patrocinio/b_radig.png" alt="Radig Soluções em TI" /></a>
 					</div>
 
@@ -325,7 +400,6 @@
 			<div class="clear"> </div>
 
 			<section>
-
 				<div class="grid_6 push_3">
 					<div class="grid_3 push_2 contato alpha"></div>
 				</div>
@@ -344,17 +418,16 @@
 			</section>
 		</div>
 	</body>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-3058433-1']);
+	_gaq.push(['_trackPageview']);
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3058433-1']);
-  _gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+	</script>
 </html>
