@@ -157,7 +157,7 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circulolaranja">
-							<h5 class="grid_1 alpha">8:30</h5>
+							<h5 class="grid_1 alpha">8:20</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Breakfast/Networking</h4>
@@ -167,7 +167,7 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circuloazulp">
-							<h5 class="grid_1 alpha">9:00</h5>
+							<h5 class="grid_1 alpha">8:40</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Redis: Um banco chave valor</h4>
@@ -177,7 +177,7 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">9:50</h5>
+							<h5 class="grid_1 alpha">9:30</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>E na hora de vender? Magento x Opencart</h4>
@@ -187,7 +187,7 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circuloamarelo">
-							<h5 class="grid_1 alpha">10:40</h5>
+							<h5 class="grid_1 alpha">10:20</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Doing Things with PHING</h4>
@@ -197,7 +197,7 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circulolaranja">
-							<h5 class="grid_1 alpha">11:30</h5>
+							<h5 class="grid_1 alpha">11:10</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Almoço/Intervalo</h4>
@@ -207,7 +207,7 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circuloazulp">
-							<h5 class="grid_1 alpha">13:00</h5>
+							<h5 class="grid_1 alpha">12:40</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Contribuindo com o PHP</h4>
@@ -217,17 +217,23 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circuloazulb">
-							<h5 class="grid_1 alpha">13:50</h5>
+							<h5 class="grid_1 alpha">13:30</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Mesa Redonda: Empreendedorismo Digital</h4>
-							<p>Convidados: em breve.</p>
+							Convidados:
+							<ul>
+								<li>Bruno "PorKaria"</li>
+								<li>Renato Paniago</li>
+								<li>Saulo Arruda</li>
+							</ul>
+							<p></p>
 						</div>
 
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circuloamarelo">
-							<h5 class="grid_1 alpha">15:40</h5>
+							<h5 class="grid_1 alpha">15:00</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Coffe-break/Networking</h4>
@@ -237,7 +243,7 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circulolaranja">
-							<h5 class="grid_1 alpha">16:00</h5>
+							<h5 class="grid_1 alpha">15:20</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>Frameworks de desenvolvimento em PHP</h4>
@@ -247,7 +253,7 @@
 						<div class="clear"></div>
 
 						<div class="grid_1 alpha circuloazulp">
-							<h5 class="grid_1 alpha">16:50</h5>
+							<h5 class="grid_1 alpha">16:10</h5>
 						</div>
 						<div class="grid_3 omega">
 							<h4>REST: Faça o Serviço Direito</h4>
@@ -299,6 +305,15 @@
 						<div class="grid_2 omega palestrante">
 							<h4>Anderson Casimiro</h4>
 							<p>Profissional PHP desde 2002, ZCE e CSM. Team Leader, Arquiteto e Desenvolvedor na Arizona. Co-fundador do PHPSP e anfitrião do PHPUBSP.</p>
+						</div>
+
+						<div class="grid_2 alpha">
+							<img src="images/speakers/arruda.png">
+						</div>
+
+						<div class="grid_2 omega palestrante">
+							<h4>Saulo Arruda</h4>
+							<p>Desenvolvedor de formação, vendedor por obrigação. Front man da Jera, participante ativo do Startup MS. Aventureiro em Objective-C e Ruby, casado, pai de duas filhas lindas, cozinheiro amador e músico aposentado.</p>
 						</div>
 					</div>
 				</div>
